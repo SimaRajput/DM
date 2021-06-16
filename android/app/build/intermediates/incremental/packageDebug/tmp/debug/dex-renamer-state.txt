@@ -1,4 +1,4 @@
-#Wed Mar 10 12:27:49 IST 2021
-base.0=/Users/mac4/Documents/DM/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Tue Jun 15 15:13:31 IST 2021
+base.0=/home/teamlance21/Documents/SIMAR/DM/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

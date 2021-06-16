@@ -1,0 +1,4 @@
+#Wed Jun 16 11:46:48 IST 2021
+base.0=/home/teamlance21/Documents/SIMAR/DM/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
