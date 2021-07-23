@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/teamlance21/Documents/SIMAR/DM/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/home/teamlance21/Documents/react-native/DM/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/teamlance21/.gradle/caches/transforms-2/files-2.1/1cd17b4a4c7e4b94a301254fec05bdc3/core-1.0.1/res/values-v16/values-v16.xml",
+                    "source": "/home/teamlance21/.gradle/caches/transforms-2/files-2.1/4f3e3536c8bf9e8cb1939d2a5eeaba3a/core-1.3.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/teamlance21/.gradle/caches/transforms-2/files-2.1/37631cd0ab1b46aeb23414622984ad25/appcompat-1.0.2/res/values-v16/values-v16.xml",
+                    "source": "/home/teamlance21/.gradle/caches/transforms-2/files-2.1/3d80612cf866c25180a6f07f0dbf6ee9/appcompat-1.2.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
