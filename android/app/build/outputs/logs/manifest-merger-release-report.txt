@@ -4,7 +4,6 @@ ADDED from /home/teamlance21/Documents/react-native/DM/android/app/src/main/Andr
 INJECTED from /home/teamlance21/Documents/react-native/DM/android/app/src/main/AndroidManifest.xml:2:1-31:12
 INJECTED from /home/teamlance21/Documents/react-native/DM/android/app/src/main/AndroidManifest.xml:2:1-31:12
 INJECTED from /home/teamlance21/Documents/react-native/DM/android/app/src/main/AndroidManifest.xml:2:1-31:12
-MERGED from [:react-native-localize] /home/teamlance21/Documents/react-native/DM/node_modules/react-native-localize/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-native:0.63.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/de99e17e186867ad759b01ae81b00b8c/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/90f5ad7dbf5632f7fd82b28bbbb594d8/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
@@ -125,8 +124,6 @@ uses-sdk
 INJECTED from /home/teamlance21/Documents/react-native/DM/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/teamlance21/Documents/react-native/DM/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/teamlance21/Documents/react-native/DM/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-localize] /home/teamlance21/Documents/react-native/DM/node_modules/react-native-localize/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-localize] /home/teamlance21/Documents/react-native/DM/node_modules/react-native-localize/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-native:0.63.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/de99e17e186867ad759b01ae81b00b8c/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.63.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/de99e17e186867ad759b01ae81b00b8c/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44

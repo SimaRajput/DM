@@ -11,11 +11,11 @@ import {
 } from 'react-native';
 import { openUrl } from '../helper/openUrl';
 import CountryPicker from 'react-native-country-picker-modal';
-import * as RNLocalize from "react-native-localize";
 
 class DirectMessage extends Component {
   constructor(props) {
     super(props);
+    console.log('props',props)
 
     this.state = {
       phoneNumber: '',
@@ -33,6 +33,7 @@ class DirectMessage extends Component {
     });
   }
   
+  
   componentDidMount() {
     this.getGeoInfo();
   }
@@ -42,6 +43,7 @@ class DirectMessage extends Component {
       .then((response) => response.json())
       .then((json) => {
         let data = json;
+        console.log('data',data)
         this.setState({
           countryName: data.country_code,
           countryCode: data.country_calling_code
@@ -53,9 +55,9 @@ class DirectMessage extends Component {
   }
 
   render() {
-    const { phoneNumber, cca2, callingCode, countryName, countryCode } = this.state;
+    const { phoneNumber, cca2, callingCode } = this.state;
     
-    console.log('data', countryCode, countryName)
+  
     return (
 
       <SafeAreaView style={styles.safearea}>
@@ -84,7 +86,7 @@ class DirectMessage extends Component {
           </View>
           <View style={{alignItems:'center'}}>
           <Image source={require('../assets/images/logo.png')} resizeMode='cover' style={[styles.image],{height: 150,
-    width: 150,marginTop:50}} />
+    width: 150,marginTop:50 }} />
     </View>
           <View style={styles.buttonContainer}>
             <TouchableOpacity onPress={() => openUrl(
@@ -98,7 +100,7 @@ class DirectMessage extends Component {
               }`
             )}>
               <Image source={require('../assets/images/call.png')} resizeMode='cover' style={[styles.image],{height: 65,
-    width: 65}} />
+    width: 65 }} />
             </TouchableOpacity>
             <TouchableOpacity onPress={() => openUrl(
               `whatsapp://send?phone=${callingCode + phoneNumber

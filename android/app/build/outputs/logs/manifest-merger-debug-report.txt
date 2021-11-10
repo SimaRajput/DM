@@ -8,8 +8,7 @@ MERGED from /home/teamlance21/Documents/react-native/DM/android/app/src/main/And
 MERGED from [com.facebook.flipper:flipper:0.54.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:8:1-18:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/bd2cab46fd45b530a274001375333ead/flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/dd7dfafbb0af41b4347f18654ea5c436/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
-MERGED from [:react-native-localize] /home/teamlance21/Documents/react-native/DM/node_modules/react-native-localize/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.react:react-native:0.63.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/7dd15e2391335c35506bf4cd1362c2ff/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.react:react-native:0.63.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/de99e17e186867ad759b01ae81b00b8c/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/90f5ad7dbf5632f7fd82b28bbbb594d8/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/3d80612cf866c25180a6f07f0dbf6ee9/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
@@ -48,7 +47,7 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] /home/teamlance21/.gradle/cac
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/4da6ddd3c71dbaec92b0fdf3bbca4ce7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/7795d60208f5dec52ee32d30407c8252/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/9c44c714e7f61700ba86ba0b726bac90/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/705ec3bc509e5f5a9ba368240cdf9cca/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/95cd34a6b54c7a2266711696d128f683/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/c114d4501470930b3986c4f9bd2da0fd/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
 INJECTED from /home/teamlance21/Documents/react-native/DM/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /home/teamlance21/Documents/react-native/DM/android/app/src/debug/AndroidManifest.xml:2:1-8:12
@@ -88,8 +87,8 @@ application
 ADDED from /home/teamlance21/Documents/react-native/DM/android/app/src/main/AndroidManifest.xml:9:5-29:19
 MERGED from /home/teamlance21/Documents/react-native/DM/android/app/src/main/AndroidManifest.xml:9:5-29:19
 MERGED from /home/teamlance21/Documents/react-native/DM/android/app/src/main/AndroidManifest.xml:9:5-29:19
-MERGED from [com.facebook.react:react-native:0.63.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/7dd15e2391335c35506bf4cd1362c2ff/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.63.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/7dd15e2391335c35506bf4cd1362c2ff/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/de99e17e186867ad759b01ae81b00b8c/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/de99e17e186867ad759b01ae81b00b8c/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/90f5ad7dbf5632f7fd82b28bbbb594d8/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/90f5ad7dbf5632f7fd82b28bbbb594d8/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
 MERGED from [com.facebook.soloader:soloader:0.9.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/c34148f30cbc3e974eff21cbfb6a112a/soloader-0.9.0/AndroidManifest.xml:11:5-20
@@ -161,10 +160,8 @@ MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/teamlance
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/bd2cab46fd45b530a274001375333ead/flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/dd7dfafbb0af41b4347f18654ea5c436/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/dd7dfafbb0af41b4347f18654ea5c436/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [:react-native-localize] /home/teamlance21/Documents/react-native/DM/node_modules/react-native-localize/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-localize] /home/teamlance21/Documents/react-native/DM/node_modules/react-native-localize/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.react:react-native:0.63.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/7dd15e2391335c35506bf4cd1362c2ff/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.63.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/7dd15e2391335c35506bf4cd1362c2ff/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/de99e17e186867ad759b01ae81b00b8c/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/de99e17e186867ad759b01ae81b00b8c/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/90f5ad7dbf5632f7fd82b28bbbb594d8/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
@@ -241,8 +238,8 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/teamlance21
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/7795d60208f5dec52ee32d30407c8252/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/9c44c714e7f61700ba86ba0b726bac90/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/9c44c714e7f61700ba86ba0b726bac90/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/705ec3bc509e5f5a9ba368240cdf9cca/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/705ec3bc509e5f5a9ba368240cdf9cca/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/95cd34a6b54c7a2266711696d128f683/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/95cd34a6b54c7a2266711696d128f683/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/c114d4501470930b3986c4f9bd2da0fd/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /home/teamlance21/.gradle/caches/transforms-2/files-2.1/c114d4501470930b3986c4f9bd2da0fd/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
 INJECTED from /home/teamlance21/Documents/react-native/DM/android/app/src/debug/AndroidManifest.xml

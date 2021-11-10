@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DM.iml" filepath="$PROJECT_DIR$/.idea/modules/DM.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DM.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DM.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-216608334/DM.react-native-localize.iml" filepath="$PROJECT_DIR$/.idea/modules/-216608334/DM.react-native-localize.iml" />
     </modules>
   </component>
 </project>
